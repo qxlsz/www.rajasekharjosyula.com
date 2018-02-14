@@ -87,7 +87,7 @@
   "education": [{
     "institution": "University of the Cumberlands",
     "area": "Computer and Information Security Systems",
-    "studyType": "Masters",
+    "studyType": "Masters in ",
     "startDate": "2015-07-30",
     "endDate": "2017-05-05",
     "gpa": "4.0",
@@ -99,7 +99,7 @@
   {
     "institution": "Lamar University",
     "area": "Electrical Engineering",
-    "studyType": "Masters",
+    "studyType": "Masters in ",
     "startDate": "2013-12-31",
     "endDate": "2015-06-30",
     "gpa": "3.35",
@@ -111,7 +111,7 @@
     {
     "institution": "Amrita University",
     "area": "Electrical Engineering",
-    "studyType": "Bachelors",
+    "studyType": "Bachelors in",
     "startDate": "2009-07-24",
     "endDate": "2013-12-30",
     "gpa": "3.0",
