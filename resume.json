@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Rajasekhar Josyula",
+    "label": "AI & Deep Learning Enthusiast",
+    "picture": "",
+    "email": "rajasekhar.josyula@gmail.com",
+    "phone": "(765) 387-9579",
+    "website": "http://rajasekharjosyula.com",
+    "summary": "Currently working for Tesla. I develop testers for autopilot hardware(Model S,Model X, Model 3 and more futuristic products). I also do image processing for various projects using ML. One of my major projects I developed is multi-camera calibration.",
+    "location": {
+      "address": "4950 Stevenson Blvd",
+      "postalCode": "CA 94538",
+      "city": "Fremont",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+    {
+      "network": "Github",
+      "username": "qxlsz",
+      "url": "https://github.com/qxlsz"
+    },
+    {
+      "network": "linkedin",
+      "username": "rajasekharjosyula",
+      "url": "https://www.linkedin.com/in/rajasekharjosyula/"
+    },
+    {
+      "network": "twitter",
+      "username": "qxlsz",
+      "url": "https://twitter.com/qxlsz"
+    },
+    {
+      "network": "facebook",
+      "username": "qxlsz",
+      "url": "https://www.facebook.com/Qxlsz"
+    },
+    {
+      "network": "instagram",
+      "username": "qxlsz",
+      "url": "https://www.instagram.com/qxlsz/"
+    },
+    {
+      "network": "youtube",
+      "username": "rajasekharjosyula",
+      "url": "https://www.youtube.com/channel/UCtZBzn0cgOFmgqccKNYudfw"
+    },
+    {
+      "network": "stack overflow",
+      "username": "raj-josyula",
+      "url": "https://stackoverflow.com/users/6104959/raj-josyula?tab=profile"
+    }
+
+	]
+
+  },
+  "work": [{
+    "company": "Tesla",
+    "position": "Test Dev Engineer",
+    "website": "http://tesla.com",
+    "startDate": "2017-05-30",
+    "endDate": "",
+    
+    "highlights": [
+      "Currently working on future autopilot hardware products",
+      "Developed multi camera calibration for Model 3",
+      "Created testers using opencv to get highest quality cameras"
+
+    ]
+  },
+{
+    "company": "Tesla",
+    "position": "Quality Engineering Intern",
+    "website": "http://tesla.com/",
+    "startDate": "2016-01-11",
+    "endDate": "2017-05-05",
+    "highlights": [
+      "Worked on camera calibration for Model S and Model X",
+      "Improved cameras FOV to avoid false Auto Emergency Braking(AEB) in autopilot mode",
+      "Continuous FA and RCA on autopilot ecu hw 2.0 and 2.5, camera sub system of Model S and Model X",
+      "Created tableau dashboards to enable all engineers use it for FA and RCA",
+      "Saved 4 million dollars of inventory from scrapping by creating an advanced way of root causing multiple failed parts"
+    ]
+    
+  }],
+  
+  "education": [{
+    "institution": "University of the Cumberlands",
+    "area": "Computer and Information Security Systems",
+    "studyType": "Masters",
+    "startDate": "2015-07-30",
+    "endDate": "2017-05-05",
+    "gpa": "4.0",
+    "courses": [
+
+      "Cryptography"," Security Architecture Design", "Business Continuity and Disaster Recovery Planning","Application Security"
+    ]
+  },
+  {
+    "institution": "Lamar University",
+    "area": "Electrical Engineering",
+    "studyType": "Masters",
+    "startDate": "2013-12-31",
+    "endDate": "2015-06-30",
+    "gpa": "3.35",
+    "courses": [
+
+      "Low Power CMOS Design"," Engr Applic AI/Expert Systems", "Nuclear Kinetics and Control","Nuclear Power Engineering", "VLSI Design"
+    ]
+  },
+    {
+    "institution": "Amrita University",
+    "area": "Electrical Engineering",
+    "studyType": "Bachelors",
+    "startDate": "2009-07-24",
+    "endDate": "2013-12-30",
+    "gpa": "3.0",
+    "courses": [
+
+      "Power Electronics", "Object Oriented Programming", "Embedded Systems Design"
+    ]
+  }
+],
+  "publications": [
+		{
+		"name": "R Programming",
+		"publisher": "Microsoft",
+		"website": "http://rajasekharjosyula.com/C/R_Programming.pdf"
+		},
+		{
+		"name": "Machine Learning",
+		"publisher": "Stanford University",
+		"website": "http://rajasekharjosyula.com/C/Coursera_6Y2CK84UN5AV.pdf"
+		},
+		{
+		"name": "Project Planning and Management",
+		"publisher": "University of Virginia",
+		"website": "http://rajasekharjosyula.com/C/Coursera_LJL44E8W2W7W.pdf"
+		},
+		{	
+		"name": "Gamification",
+		"publisher": "University of Pennsylvania",
+		"website": "hhttp://rajasekharjosyula.com/C/Coursera_ZQBQDDJN5ENV.pdf"
+		},
+		{
+		"name": "CATIA V5",
+		"publisher": "Dassault Systemes",
+		"website": "http://rajasekharjosyula.com/C/CATIAV25R23.pdf"
+		}
+		],
+  "skills": [
+{
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "C++","C#",
+        "python"
+      ]
+    },
+    {
+      "name": "Front End",
+      "level": "Medium",
+      "keywords": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "UI"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Medium",
+      "keywords": [
+        "supervised",
+        "tensorflow"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "High",
+      "keywords": [
+        "Tableau",
+        "R",
+        "Microsoft BI"
+      ]
+    }
+
+  		]
+}

@@ -1,0 +1,50 @@
+{
+  "_from": "jsonresume-theme-stackoverflow",
+  "_id": "jsonresume-theme-stackoverflow@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-npyVaX8RsEam7HaHB5i3Yb5QdNA=",
+  "_location": "/jsonresume-theme-stackoverflow",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jsonresume-theme-stackoverflow",
+    "name": "jsonresume-theme-stackoverflow",
+    "escapedName": "jsonresume-theme-stackoverflow",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-stackoverflow/-/jsonresume-theme-stackoverflow-1.4.0.tgz",
+  "_shasum": "9e9c95697f11b046a6ec76870798b761be5074d0",
+  "_spec": "jsonresume-theme-stackoverflow",
+  "_where": "/Users/rjosyula",
+  "author": {
+    "name": "Francesco Esposito",
+    "email": "http://fran.cesco.io"
+  },
+  "bugs": {
+    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "moment": "^2.18.1",
+    "resume-schema": "0.0.16"
+  },
+  "deprecated": false,
+  "description": "Stack Overflow theme for JSON Resume",
+  "homepage": "https://github.com/francescoes/jsonresume-theme-stackoverflow#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jsonresume-theme-stackoverflow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescoes/jsonresume-theme-stackoverflow.git"
+  },
+  "version": "1.4.0"
+}
