@@ -66,6 +66,7 @@
       "Developed multi camera calibration for Model 3",
       "Created testers using opencv to get highest quality cameras"
 
+
     ]
   },
 {
@@ -171,7 +172,8 @@
       "name": "Machine Learning",
       "level": "Medium",
       "keywords": [
-        "supervised",
+        "deeplearning",
+        "Image Classification"
         "tensorflow"
       ]
     },
@@ -182,6 +184,7 @@
         "Tableau",
         "R",
         "Microsoft BI"
+        "pandas"
       ]
     }
 
